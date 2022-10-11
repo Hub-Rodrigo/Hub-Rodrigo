@@ -5,11 +5,13 @@
 
 **Materias Cursadas**
 
-[X] Lógica Computacional
-[X] Engenharia de Software
-[X] Modelagem de Dados
-[X] Análise e Modelagem de Sistemas
-[X] 
+- [X] Lógica Computacional
+- [X] Engenharia de Software
+- [X] Modelagem de Dados
+- [X] Análise e Modelagem de Sistemas
+- [X] Algoritmos e Programação Estruturada
+- [X] Ed - Mindset Ági
+- [X] Projeto Integrado II
 
 <div align="center">
   <a href="https://github.com/Hub-Rodrigo">
