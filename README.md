@@ -4,7 +4,7 @@
 - 📖 Faculdade de Análise e Desenvolvimento de Sistema 1° Periodo ...
 - 🤞 Gostaria de trabalho com Back-End...
 
-**Materias Cursadas**
+**Materias Cursadas na Faculdade**
 
 - [X] Lógica Computacional
 - [X] Engenharia de Software
@@ -13,6 +13,11 @@
 - [X] Algoritmos e Programação Estruturada
 - [ ] Ed - Mindset Ági
 - [X] Projeto Integrado II
+
+**Materias dos Cursos**
+
+- [Acesse Repositorio](https://github.com/Hub-Rodrigo/Plano-de-Estudos-Java)
+- [Acesse Repositorio](https://github.com/Hub-Rodrigo/Plano_de_Estudo_JavaScript)
 
 <div align="center">
   <a href="https://github.com/Hub-Rodrigo">
