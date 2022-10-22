@@ -14,7 +14,7 @@
 - [ ] Ed - Mindset Ági
 - [X] Projeto Integrado II
 
-**Materias dos Cursos**
+**Planos de Estudos**
 
 - [Acesse Repositorio](https://github.com/Hub-Rodrigo/Plano-de-Estudos-Java)
 - [Acesse Repositorio](https://github.com/Hub-Rodrigo/Plano_de_Estudo_JavaScript)
