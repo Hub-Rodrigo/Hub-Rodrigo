@@ -9,9 +9,9 @@
 - [X] Lógica Computacional
 - [X] Engenharia de Software
 - [X] Modelagem de Dados
-- [ ] Análise e Modelagem de Sistemas
+- [x] Análise e Modelagem de Sistemas
 - [X] Algoritmos e Programação Estruturada
-- [ ] Ed - Mindset Ági
+- [x] Ed - Mindset Ági
 - [X] Projeto Integrado II
 
 **Planos de Estudos**
