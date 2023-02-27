@@ -13,17 +13,23 @@
 - [X] Algoritmos e Programação Estruturada
 - [x] Ed - Mindset Ági
 - [X] Projeto Integrado II
+- [ ] Optativa 1
+- [ ] Análise Orientada a Objetos
+- [ ] Linguagem de Programação
+- [ ] Programação e Desenvolvimento de Banco de Dados
+- [ ] Interface e Usabilidade
+- [ ] Linguagem Orientada a Objetos
+- [ ] Projeto Integrado III 
+
 
 **Planos de Estudos**
 
 - [Acesse Repositorio](https://github.com/Hub-Rodrigo/Plano-de-Estudos-Java)
 - [Acesse Repositorio](https://github.com/Hub-Rodrigo/Plano_de_Estudo_JavaScript)
 
-<div align="center">
-  <a href="https://github.com/Hub-Rodrigo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hub-Rodrigo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hub-Rodrigo&layout=compact&langs_count=7&theme=dark"/>
-</div>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hub-Rodrigo&show_icons=true&theme=gruvbox)](https://github.com/Hub-Rodrigo/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hub-Rodrigo&hide_progress=true&theme=gruvbox)](https://github.com/Hub-Rodrigo/github-readme-stats)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
