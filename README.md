@@ -14,7 +14,7 @@
 - [x] Ed - Mindset Ági
 - [X] Projeto Integrado II
 - [ ] Optativa 1
-- [ ] Análise Orientada a Objetos
+- [x] Análise Orientada a Objetos
 - [ ] Linguagem de Programação
 - [ ] Programação e Desenvolvimento de Banco de Dados
 - [ ] Interface e Usabilidade
