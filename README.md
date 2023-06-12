@@ -13,13 +13,13 @@
 - [X] Algoritmos e Programação Estruturada
 - [x] Ed - Mindset Ági
 - [X] Projeto Integrado II
-- [ ] Optativa 1
+- [x] Optativa 1
 - [x] Análise Orientada a Objetos
-- [ ] Linguagem de Programação
-- [ ] Programação e Desenvolvimento de Banco de Dados
-- [ ] Interface e Usabilidade
-- [ ] Linguagem Orientada a Objetos
-- [ ] Projeto Integrado III 
+- [x] Linguagem de Programação
+- [x] Programação e Desenvolvimento de Banco de Dados
+- [x] Interface e Usabilidade
+- [x] Linguagem Orientada a Objetos
+- [x] Projeto Integrado III 
 
 
 **Planos de Estudos**
