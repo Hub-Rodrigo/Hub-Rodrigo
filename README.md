@@ -6,21 +6,37 @@
 
 **Materias Cursadas na Faculdade**
 
-- [X] Lógica Computacional
-- [X] Engenharia de Software
-- [X] Modelagem de Dados
-- [x] Análise e Modelagem de Sistemas
-- [X] Algoritmos e Programação Estruturada
-- [x] Ed - Mindset Ági
-- [X] Projeto Integrado II
-- [x] Optativa 1
-- [x] Análise Orientada a Objetos
-- [x] Linguagem de Programação
-- [x] Programação e Desenvolvimento de Banco de Dados
-- [x] Interface e Usabilidade
-- [x] Linguagem Orientada a Objetos
-- [x] Projeto Integrado III 
+- [X] Análise E Modelagem De Sistemas	
+- [X]	Ed - Mindset Ágil	 10h	
+- [X]	Engenharia De Software	
+- [X] Lógica Computacional	
+- [X]	Modelagem De Dados	
+- [X]	Algoritmos E Programação Estruturada	
+- [X]	Educação A Distância	 
+- [X]	Projeto Integrado II 
+- [X] Projeto Integrado III
+- [X]	Análise Orientada A Objetos	
+- [X]	Linguagem Orientada A Objetos
+- [X]	Optativa 1	
+- [X]	Programação E Desenvolvimento De Banco De Dados	 
+- [X]	Linguagem De Programação	
+- [X] Interface E Usabilidade	 
+- [X]	Projeto De Extensão - Análise E Desenvolvimento De Sistemas	
+- [X]	Sistemas Operacionais	 
+- [X]	Programação Web	 
+- [X]	Optativa 2	 
+- [X]	Desenvolvimento Mobile	
+- [X]	Projeto Integrado Iv	 
+- [X]	Computação Em Nuvem 
 
+**Cusrsando**
+
+- [ ]	Segurança E Auditoria De Sistemas	
+- [ ]	Redes E Sistemas Distribuídos	 
+- [ ]	Projeto De Software	
+- [ ]	Arquitetura E Organização De Computadores	
+- [ ]	Projeto Integrado I	
+- [ ]	Sociedade Brasileira E Cidadania	 	
 
 **Planos de Estudos**
 
