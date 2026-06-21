@@ -3,10 +3,11 @@
 🎓 **Formação**
 - Graduado em **Análise de Sistemas**
 - Pós-graduado em **Análise Financeira**
-- Cursando Pós-graduação em **Análise de Dados**
+- Pós-graduação em **Análise de Dados**
+-  **Cursos em Dio.me**
 
 💼 **Atuação Profissional**
-- Atualmente atuo como **Analista Contábil**, com foco em análise de dados e automação de processos.
+- Atualmente atuo como **Analista de Dados**, com foco em automação de processos.
 - Busco consolidar minha carreira na área de **Análise de Dados**, aplicando **Python, SQL, Pandas, Power BI, APIs e ETL** para gerar insights e apoiar decisões estratégicas.
 
 📖 **Estudos Atuais**
