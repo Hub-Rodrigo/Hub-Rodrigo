@@ -29,11 +29,6 @@
 </div>
 
 ---
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hub-Rodrigo&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true)](https://github.com/Hub-Rodrigo)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hub-Rodrigo&layout=compact&theme=gruvbox)](https://github.com/Hub-Rodrigo)
-
 ---
 
 
