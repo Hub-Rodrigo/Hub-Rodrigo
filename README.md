@@ -30,10 +30,9 @@
 
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hub-Rodrigo&show_icons=true&theme=gruvbox)](https://github.com/Hub-Rodrigo/github-readme-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hub-Rodrigo&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hub-Rodrigo&hide_progress=true&theme=gruvbox)](https://github.com/Hub-Rodrigo/github-readme-stats)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hub-Rodrigo&layout=compact&theme=gruvbox)
 ---
 
 📬 **Contato**
