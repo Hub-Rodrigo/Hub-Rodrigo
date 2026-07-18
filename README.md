@@ -47,7 +47,7 @@
 <div style="display: inline_block;">
   <img alt="Power BI" height="40" width="50" src="https://img.icons8.com/color/48/power-bi.png" />
   <img alt="Pandas" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
-  <img alt="Excel" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" />
+  <img alt="Excel" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Microsoft_Office_Excel_%282019%E2%80%932025%29.svg" />
 </div>
 
 ### Ferramentas & Plataformas
@@ -86,9 +86,9 @@
 
 ## 📈 Estatísticas do GitHub
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hub-Rodrigo&show_icons=true&theme=dark&locale=pt-br)](https://github.com/Hub-Rodrigo)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hub-Rodrigo&show_icons=true&theme=dark&locale=pt-br&cache_seconds=86400)](https://github.com/Hub-Rodrigo)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hub-Rodrigo&layout=compact&theme=dark&locale=pt-br)](https://github.com/Hub-Rodrigo)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hub-Rodrigo&layout=compact&theme=dark&locale=pt-br&cache_seconds=86400)](https://github.com/Hub-Rodrigo)
 
 ---
 
