@@ -83,11 +83,6 @@
 - Prototipagem rápida
 
 ---
-
-## 📈 Estatísticas do GitHub
-
-## 📈 Estatísticas do GitHub
-
 ## 📈 Estatísticas do GitHub
 
 <p align="center">
