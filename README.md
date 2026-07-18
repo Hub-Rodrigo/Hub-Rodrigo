@@ -86,9 +86,9 @@
 
 ## 📈 Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hub-Rodrigo&show_icons=true&theme=dark&locale=pt-br)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hub-Rodrigo&show_icons=true&theme=dark&locale=pt-br)](https://github.com/Hub-Rodrigo)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hub-Rodrigo&layout=compact&theme=dark&locale=pt-br)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hub-Rodrigo&layout=compact&theme=dark&locale=pt-br)](https://github.com/Hub-Rodrigo)
 
 ---
 
