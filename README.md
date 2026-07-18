@@ -19,7 +19,7 @@
 | **Graduação** | Análise de Sistemas |
 | **Pós-Graduação** | Análise Financeira |
 | **Pós-Graduação** | Análise de Dados |
-| **Certificações** | DIO.me - Bootcamps em Ciência de Dados |
+| **Certificações** | DIO.me - Bootcamps Analise de Dados |
 
 ---
 
