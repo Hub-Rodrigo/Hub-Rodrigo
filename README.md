@@ -19,7 +19,7 @@
 | **Graduação** | Análise de Sistemas |
 | **Pós-Graduação** | Análise Financeira |
 | **Pós-Graduação** | Análise de Dados |
-| **Certificações** | DIO.me - Bootcamps Analise de Dados |
+| **Certificações** | DIO.me - Bootcamps Análise de Dados |
 
 ---
 
@@ -86,9 +86,11 @@
 
 ## 📈 Estatísticas do GitHub
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hub-Rodrigo&show_icons=true&theme=dark&locale=pt-br&cache_seconds=86400)](https://github.com/Hub-Rodrigo)
+<p align="center">
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Hub-Rodrigo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hub-Rodrigo&layout=compact&theme=dark&locale=pt-br&cache_seconds=86400)](https://github.com/Hub-Rodrigo)
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Hub-Rodrigo&layout=compact&theme=tokyonight"/>
+</p>
 
 ---
 
